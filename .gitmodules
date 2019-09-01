@@ -1,0 +1,3 @@
+[submodule "tcmcommon"]
+	path = tcmcommon
+	url = git@github.com:sunjosjlee/tcmcommon.git
